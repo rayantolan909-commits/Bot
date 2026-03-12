@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Flowvac.aternos.me:22378",
+    "ip": "Flowvac.aternos.me",
     "port": 22378,
     "version": "",
     "try-creative": false
